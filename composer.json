@@ -1,0 +1,22 @@
+{
+    "name": "v-sing/querylist-phantomjs",
+    "description": "QueryList Plugin: Use PhantomJS to crawl Javascript dynamically rendered pages.(headless WebKit ) 使用PhantomJS采集JavaScript动态渲染的页面",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "QL\\Ext\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "15238399426",
+            "email": "email1946367301@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "jonnyw/php-phantomjs": "^2.0",
+        "jaeger/querylist": "^4.2"
+    }
+}
