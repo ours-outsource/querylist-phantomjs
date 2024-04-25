@@ -16,7 +16,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "jonnyw/php-phantomjs": "^2.0",
         "jaeger/querylist": "^4.2"
     }
 }
