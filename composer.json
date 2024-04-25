@@ -14,7 +14,7 @@
             "email": "email1946367301@163.com"
         }
     ],
-    "minimum-stability": "main",
+    "minimum-stability": "v1.0.3",
     "require": {
         "jonnyw/php-phantomjs": "^2.0",
         "jaeger/querylist": "^4.2"
